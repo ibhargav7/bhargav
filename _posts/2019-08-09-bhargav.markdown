@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Status"
+date:  2019-08-09 17:04:19 +0530
+author: "Bhargav"
+categories: jekyll update
+---
+  I am an undergraduate student in Amrita Vishwa Vidyapeetam, Amritapuri. I am ambitious to  becoming a software developer. I had good take over on python and knew about ruby, go, html, c  upto some extent.
+
+  checkout my work at [github](http://github.com/ibhargav7)
