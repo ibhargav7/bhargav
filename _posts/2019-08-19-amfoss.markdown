@@ -1,0 +1,37 @@
+---
+layout: post
+title: "amFOSS-Tasks"
+date:  2019-08-19 17:04:19 +0530
+author: "Bhargav"
+---
+TASKS DONE
+==========
+ Before Lab Session:
+ ------------------
+
+ ..* _Task 0_ :
+  Installed ubuntu using USB flash drive.
+ ..* _Task 2_ :
+ Solved all hacker rank and code force problems using python. At first  I wasn't familiar with any programming. Learnt python from CS50 videos and some functions from other websites
+ ..* _Task 8_ :
+ Done by using PIL and Pytesseract packages. Tessseract is an optical  character recognition engine which reads the text in the given image. Using this it wasn't that difficult to complete the task.
+ ..* _Task 9_ :
+ done the task by using jekyll  a static website generator. Didn't change the theme because I feel like default theme was looking good.
+
+  During lab sessions :
+  -------------------
+
+ ..* _Task 6_ :
+  Done by referring Dghubble/go- repository in github. Golang quiet difficult to learn. Just learnt some basic syntax in go. logged into  the twitter developer account and after two days got the token key and secret. We can get the required result just by using twitter id.
+  ..* _Task 7_ :
+  At first I don't have an idea how to do this task later I came  to  came to  know about the regex and learnt the syntax and watched some tutorials of it and did the task
+
+
+ BLOCKERS :
+ ========
+
+ ..* _Task 3_ :
+  Cannot extract  the required data from the parsed data and cannot give thee correct class for the information required.
+ ..* _Task 6_ :
+  Cannot complete the task by using twitter user name instead it uses twitter  user id.
+ 
