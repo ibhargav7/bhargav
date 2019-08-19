@@ -9,15 +9,14 @@ author: "Bhargav"
 **Before Lab Session**:
 
  * *Task 0* :
-  Installed ubuntu using USB flash drive.
-  *******
-* *Task 2* :
- Solved all hacker rank and code force problems using python. At first  I wasn't familiar with any programming. Learnt python from CS50 videos and some functions from other websites
-* *Task 8* :
- Done by using PIL and Pytesseract packages. Tessseract is an optical  character recognition engine which reads the text in the given image. Using this it wasn't that difficult to complete the task.
+    * Installed ubuntu using USB flash drive.
 
- *Task 9*:
- done the task by using jekyll a static website generator. Didn't change the theme because I feel like default theme was looking good.
+* *Task 2* :
+   * Solved all hacker rank and code force problems using python. At first  I wasn't familiar with any programming. Learnt python from CS50 videos and some functions from other websites
+* *Task 8* :
+   * Done by using PIL and Pytesseract packages. Tessseract is an optical  character recognition engine which reads the text in the given image. Using this it wasn't that difficult to complete the task.
+* *Task 9*:
+   * Done the task by using jekyll a static website generator. Didn't change the theme because I feel like default theme was looking good.
 
 
   **During lab sessions** :
