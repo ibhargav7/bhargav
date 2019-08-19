@@ -4,7 +4,7 @@ title: "amFOSS-Tasks"
 date:  2019-08-19 17:04:19 +0530
 author: "Bhargav"
 ---
-##TASKS Done
+#TASKS DONE
 
 **Before Lab Session**:
 
@@ -18,7 +18,7 @@ author: "Bhargav"
 
  *Task 9*:
  done the task by using jekyll  a static website generator. Didn't change the theme because I feel like default theme was looking good.
-***********
+
 
   **During lab sessions** :
 
@@ -27,9 +27,8 @@ author: "Bhargav"
 
 * *Task 7* :
   At first I don't have an idea how to do this task later I came  to  came to  know about the regex and learnt the syntax and watched some tutorials of it and did the task
-  *******
 
- **BLOCKERS ** :
+  **BLOCKERS** :
 
 * *Task 3* :
   Cannot extract  the required data from the parsed data and cannot give thee correct class for the information required.
